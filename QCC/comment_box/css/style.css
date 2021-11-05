@@ -1,0 +1,88 @@
+/* CSS Document */
+
+body{
+	background-image: url("../../img/1300674.jpg");
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;	
+
+	background-attachment:fixed;
+}
+#container{
+	background-color:#FFF;
+	width:80%;
+	padding:10px;
+	margin:1px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.page_content{
+	margin:-15px;
+	padding:10px;
+	border-bottom:1px solid #CCC;
+	font-family:Candara;
+}
+.comment_input{
+	background:#CCC;
+	margin:10px;
+	padding:10px;
+	border:1px solid #CCC;
+}
+
+.button{
+	padding:5px 15px 5px 15px;
+    background:#567373;
+    color: #FFF;
+	border-radius: 3px;
+	font-size:20px;
+}
+
+.button:hover{
+	background:#4D9494;
+}
+
+a{
+	text-decoration:none;
+}
+
+.comment_logs{
+	margin:5px;
+	padding:5px;
+	border:1px solid #CCC;
+
+}
+
+.comments_content{
+	margin:10px;
+	padding:5px;
+	border:1px solid #CCC;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	font-size:10px;
+}
+
+h1{
+	font-size:16px;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#4040E6;
+	padding-bottom:0px;
+	margin-bottom:0px;
+}
+h2{
+	font-size:5px;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#CECED6;
+}
+h3{
+	font-size:15px;
+	font-family:Verdana, Geneva, sans-serif;
+	color:black;
+	
+}
+h4{
+	font-size:14px;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#CECED6;
+	text-decoration:none;
+	float:right;
+}

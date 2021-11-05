@@ -1,0 +1,79 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	background-image: src("images/trivia-background-1.jpg");
+	
+}
+.style1 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.style2 {
+	color: #990000;
+	font-weight: bold;
+	font-size:30px;
+}
+.style4 {
+	color: white;
+	font-weight: bold;
+	font-size:20px;
+}
+.style5 {color: #990033}
+.style6 {color: #ECE9D8}
+.style7 {
+	color: red;
+	font-weight: bold;
+}
+.style8 {
+	color: #ffff00;
+	font-weight: bold;
+	font-size:40px;
+}
+a:link {
+	color: #330066;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFCC00;
+	text-decoration: underline;
+}
+a:visited {
+	color: #330066;
+	text-decoration: none;
+}
+.head1 {
+	font-family: Candari;
+	font-size: 30px;
+	color: #FF0000;
+	text-align: center;
+	font-weight: bold;
+}
+.errors {
+
+	color: #FF0000;
+	font-weight: bold;
+}
+.tot {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	color: #000000;
+}
+.tot {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	color: #000000;
+	
+}
+.tans {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	color:#00ffff ;
+}
+.fans {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	color:#FF0000 ;
+}

@@ -1,0 +1,27 @@
+
+.bg {
+		background-attachment:fixed;	
+		background-image: url("../img/1300674.jpg");	  
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-size: 100% 100%; 
+		//background-color:red;
+		overflow:auto;
+		 
+		-webkit-font-smoothing: antialiased; 
+		font: normal 14px Roboto,arial,sans-serif;
+
+		}
+li{
+	display: inline;
+	padding-top: 15px;	
+	font-family: "Georgia",sans-serif;
+	font-size: 20px;
+	
+	}		
+	
+
+
+
+	
+
